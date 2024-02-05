@@ -1,4 +1,5 @@
-[![MasterHead](https://static.wixstatic.com/media/32ba91_e60a49c85b8f42cf8c884317ffc1f08d~mv2.gif)] 
+<!--[![MasterHead](https://static.wixstatic.com/media/32ba91_e60a49c85b8f42cf8c884317ffc1f08d~mv2.gif)] -->
+<img src="https://static.wixstatic.com/media/32ba91_e60a49c85b8f42cf8c884317ffc1f08d~mv2.gif" width="1000">
 
 <h1 align="center">Hi 👋, I am fkamau</h1>
 <h3 align="center">Passionate developer committed to lifelong learning with a curiosity for transforming complex challenges into elegant code.</h3>
